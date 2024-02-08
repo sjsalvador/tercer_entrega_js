@@ -3,7 +3,7 @@ export const productos = [
         id: 1,
         nombre: "Aceite Marolio",
         precio: 1200,
-        imagen: "img/AceiteGirasol900.jpg",
+        imagen: "./img/AceiteGirasol900.jpg",
         categoria: "ACEITES"
     },
     {
@@ -17,7 +17,7 @@ export const productos = [
         id: 3,
         nombre: "Mayonesa Marolio",
         precio: 950,
-        imagen: "../img/mayonesa.jpg",
+        imagen: "./img/mayonesa.jpg",
         categoria: "MAYONESAS"
     },
     {
