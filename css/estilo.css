@@ -77,6 +77,10 @@ footer ul li a {
     color: #fafafa!important;
 }
 
-#foot.text {
+.text-footer {
+    color: white;
+}
+
+footer p {
     color: white;
 }
