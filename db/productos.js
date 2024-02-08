@@ -17,42 +17,42 @@ export const productos = [
         id: 3,
         nombre: "Mayonesa Marolio",
         precio: 950,
-        imagen: "../img/mayonesa.jpg",
+        imagen: "./img/mayonesa.jpg",
         categoria: "MAYONESAS"
     },
     {
         id: 4,
         nombre: "Salsa Marolio",
         precio: 630,
-        imagen: "../img/salsa-1.jpg",
+        imagen: "./img/salsa-1.jpg",
         categoria: "SALSAS"
     },
     {
         id: 5,
         nombre: "Cacao Marolio",
         precio: 880,
-        imagen: "../img/choco.png",
+        imagen: "./img/choco.png",
         categoria: "ALMACEN"
     },
     {
         id: 6,
         nombre: "Yerba Marolio",
         precio: 1800,
-        imagen: "../img/yerba.jpg",
+        imagen: "./img/yerba.jpg",
         categoria: "YERBAS"
     },
     {
         id: 7,
         nombre: "Palmitos Marolio",
         precio: 1800,
-        imagen: "../img/palmi.png",
+        imagen: "./img/palmi.png",
         categoria: "LATAS"
     },
     {
         id: 8,
         nombre: "Fideos Marolio",
         precio: 660,
-        imagen: "../img/fideos.png",
+        imagen: "./img/fideos.png",
         categoria: "PASTAS"
     },
 
