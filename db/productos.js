@@ -10,7 +10,7 @@ export const productos = [
         id: 2,
         nombre: "Arvejas Marolio",
         precio: 550,
-        imagen: "./img/Arvejas200g.jpg",
+        imagen: "../img/Arvejas200g.jpg",
         categoria: "LATAS"
     },
     {
