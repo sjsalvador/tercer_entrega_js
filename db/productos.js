@@ -17,14 +17,14 @@ export const productos = [
         id: 3,
         nombre: "Mayonesa Marolio",
         precio: 950,
-        imagen: "./img/mayonesa.jpg",
+        imagen: "/img/mayonesa.jpg",
         categoria: "MAYONESAS"
     },
     {
         id: 4,
         nombre: "Salsa Marolio",
         precio: 630,
-        imagen: "/img/salsa-1.jpg",
+        imagen: "img/salsa-1.jpg",
         categoria: "SALSAS"
     },
     {
