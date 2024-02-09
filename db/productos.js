@@ -24,14 +24,14 @@ export const productos = [
         id: 4,
         nombre: "Salsa Marolio",
         precio: 630,
-        imagen: "./img/salsa-1.jpg",
+        imagen: "/img/salsa-1.jpg",
         categoria: "SALSAS"
     },
     {
         id: 5,
         nombre: "Cacao Marolio",
         precio: 880,
-        imagen: "./img/choco.png",
+        imagen: "img/choco.png",
         categoria: "ALMACEN"
     },
     {
